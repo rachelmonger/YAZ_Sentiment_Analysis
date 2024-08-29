@@ -15,6 +15,8 @@ The data was scraped using BeautifulSoup shown in YAZ_web_crawler.ipynb.
 
 The scraped data was manually labeled 1, 0, and -1 for positive, neutral, and negative respectively. The records were labeled three times each by different individuals, and the most common rating was chosen for that respective record. 
 
+The final labeled dataset is shown in YAZ.xlsx.
+
 ## Data Preprocessing
 
 The data was checked for imbalance and cleaned as shown by Data_Pre_processing.ipynb. 
